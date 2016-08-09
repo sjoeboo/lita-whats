@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-whats"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["Matthew Nicholson"]
   spec.email         = ["matthew.a.nicholson@gmail.com"]
   spec.description   = "Run puppet-whats from lita"
